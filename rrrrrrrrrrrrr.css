@@ -87,7 +87,7 @@ nav li a {
 
 }
 
-nav ul li:hover {
+nav ul li: hover {
 
   background-color: Indigo;
 
@@ -141,7 +141,7 @@ nav ul li ul li {
 
 }
 
-nav ul li ul li:hover { 
+nav ul li ul li: hover { 
 
 background-color: Indigo;
 
