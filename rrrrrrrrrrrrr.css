@@ -147,7 +147,7 @@ background-color: Indigo;
 
 }
 
-nav ul li:hover ul {
+nav ul li: hover ul {
 
   display: block;
 
